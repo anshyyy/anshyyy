@@ -20,11 +20,11 @@
 
 ### I am a Software Dev pursuing my Undergrad 
 
-- 🔭 I’m currently working on various projects and myself
-- 🌱 I’m an mobile developer and an avid competitive programmer
-- 👯 I’m looking to collaborate on projects
-- 🤔 I’m looking for help with Machine learning
-- 🥅 2022 Goals: Contribute to Open Source projects and build some awesome projects
+- 🔭 I’m currently working on various projects and myself.
+- 🌱 I’m an mobile developer and an avid competitive programmer.
+- 👯 I’m looking to collaborate on projects.
+- 🤔 I’m looking for help with Mobile development.
+- 🥅 2022 Goals: Contribute to Open Source projects and build some awesome projects.
 - 📫 How to reach me: [Let's Connect here!](https://www.linkedin.com/in/anshuman-sharma-4a7675a8/)
 - ⚡ Fun fact: I'm INFJ-t
 
