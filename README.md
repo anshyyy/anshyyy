@@ -1,19 +1,17 @@
 <h1 align="center">Hello There, I'm Anshuman 👋</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=anshyyy&label=Profile%20views&color=0e75b6&style=flat" alt="anshyyy" /> </p>
 
+[![Medium](https://img.shields.io/badge/Medium-333333?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@anshyyy)
+[![StackOverFlow](https://img.shields.io/badge/StackOverflow-E1306r?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/14713427/anshuman-sharma)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-412?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshuman-sharma-4a7675a8/)
+[![Gmail](https://img.shields.io/badge/Gmail-322?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anshuman9998@gmail.com)
+[![CodeChef](https://img.shields.io/badge/CodeChef-E21?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/codewithanshu)
+[![HackerRank](https://img.shields.io/badge/HackerRank-1DA?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/anshuman9998)
+[![leetcode](https://img.shields.io/badge/leetcode-1DA1F2?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Anshyyy/)
+[![CodeForces](https://img.shields.io/badge/CodeForces-E1306r?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/heheboi)
+[![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/anshumansharmaaa)
 
-<p align="center">
-<a href="https://medium.com/@anshyyy" target="blank"><img align="center" src="https://user-images.githubusercontent.com/36799589/96227773-3acc6080-0fb2-11eb-837f-f5026d472969.jpg" alt="caltrop29493061" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/14713427/anshuman-sharma" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/1200px-Stack_Overflow_icon.svg.png" alt="10097593" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/heheboi" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/code-forces-3628695-3029920.png" alt="anshyyy" height="30" width="40" /></a>
-<a href="mailto:anshuman9998@gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/5141132/50740364-7ea80880-1217-11e9-8faf-2348e31beedd.png" alt="anshumansharmaaa" height="30" width="40" /></a>
-<a href="https://www.facebook.com/anshumansharmaaa/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Facebook_icon.svg/800px-Facebook_icon.svg.png" alt="anshumansharmaaa" height="30" width="40" /></a>
-<a href="https://instagram.com/anshumansharmaaa" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" alt="anshumansharmaaa" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/codewithanshu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="codewithanshu" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/anshuman9998" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="anshuman9998" height="30" width="40" /></a>
-<a href="https://atcoder.jp/users/anshyyy" target="blank"><img align="center" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/p1mckvzowm4fzzixscah" alt="ayan_sadhukhan21" height="30" width="40" /></a>
-<a href="https://leetcode.com/Anshyyy/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" alt="Anshyyy" height="30" width="40" /></a>
-</p>
+
 
 
 ### I am a Software Dev pursuing my Undergrad 
