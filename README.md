@@ -31,12 +31,9 @@
 ### ⚡ Github Stats
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshyyy&theme=radical&layout=compact&hide=Jupyter%20Notebook&langs_count=8"  display=block height=190 width=5000 align="center" alt="2"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshyyy&theme=radical&layout=compact&hide=Jupyter%20Notebook&langs_count=8"  display=block height=190  align="center" alt="1"></td>
    </tr>
- </tr>
-</table>
 
-<table>
   <tr>
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anshyyy&theme=solarized_dark"  display=block width=100% height=auto alt="1"></td>
    </tr>      
