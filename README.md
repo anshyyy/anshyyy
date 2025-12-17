@@ -1,10 +1,6 @@
 <h1 align="center">Hello There, I'm Anshuman 👋</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=anshyyy&label=Profile%20views&color=0e75b6&style=flat" alt="anshyyy" /> </p>
 
-### Hey, I'm Full Stack Engineer
-
-
-
 ### ⚡ Github Stats
 <table>
   <tr>
